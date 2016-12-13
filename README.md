@@ -7,7 +7,7 @@
 
 出来上がる ganglia クラスタの構成図
 
-![構成図](https://docs.google.com/drawings/d/1_f5ELCqYA-4yqfe0GCYtbmT-fuoLofkmR8jJQBvwBGE/pub?w=960&h=720 "構成図")
+![構成図](https://docs.google.com/drawings/d/1_f5ELCqYA-4yqfe0GCYtbmT-fuoLofkmR8jJQBvwBGE/pub?w=452&h=378 "構成図")
 
 ## 実行ログ
 
