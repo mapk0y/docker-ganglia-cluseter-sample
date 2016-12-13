@@ -1,0 +1,15 @@
+version: '2'
+
+
+services:
+    master:
+        build: .
+        volumes:
+            - ./gmond-master.conf:/etc/ganglia/gmond.conf:ro
+    server:
+        build: .
+        volumes:
+            - ./gmond-server.conf:/etc/ganglia/gmond.conf:ro
+
+
+
